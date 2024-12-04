@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luan Simões
 - 👀 I’m interested in working in other countries
-- 🌱 I’m currently learning JavaScripts, html e C++
+- 🌱 I’m currently learning JavaScripts, html e CSS
 - 📫 Contact: (83) 9 9886-2575
 
 <!---
